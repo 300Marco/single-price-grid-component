@@ -32,8 +32,8 @@ Os usuários devem ser capazes de:
 
 ### **Links**
 
-- URL da solução: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: [Single price grid component](https://www.frontendmentor.io/solutions/html-css-BK1fOjY0Mz)
+- Site URL: [Single price grid component](https://300marco.github.io/single-price-grid-component/)
 
 ## Meu processo
 
