@@ -144,7 +144,6 @@ section:nth-child(2) {
     margin-top: 7px;
     margin-bottom: 28px;
     font-weight: 400;
-    /* line-height: 0.7; */
 
     letter-spacing: -.1rem;
     word-spacing: .1rem;
@@ -185,7 +184,6 @@ a button {
 
 .whyUs h4 {
     color: var(--white);
-    /* color: red; */
     font-size: 1.7rem;
     word-spacing: -.1rem;
     font-weight: 400;
@@ -238,16 +236,8 @@ a button {
         line-height: 2.7rem;
     }
 
-    section:nth-child(2) {
-        /* grid-template-columns: 1fr; */
-    }
-
     .subscription {
         border-radius: 0px 0px 0px 7px;
-    }
-
-    .whyUs {
-        /* border-radius: 0 0 7px 7px; */
     }
 
     .info {
@@ -269,25 +259,3 @@ a button {
         border-radius: 0 0 7px 7px;
     }
 }
-
-/* @media screen and (max-width: 640px) {
-    .content {
-        padding: 20px;
-    }
-
-    .community {
-        padding: 20px;
-    }
-    
-    section:nth-child(2) {
-        grid-template-columns: 1fr;
-    }
-
-    .subscription {
-        border-radius: 0;
-    }
-
-    .whyUs {
-        border-radius: 0 0 7px 7px;
-    }
-} */
