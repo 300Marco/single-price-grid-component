@@ -236,7 +236,6 @@ section:nth-child(2) {
 @media screen and (max-width: 640px) {
     .content {
         padding: 20px;
-        height: initial;
     }
 
     .community {
@@ -258,6 +257,10 @@ section:nth-child(2) {
 }
 
 @media screen and (max-width: 500px) {
+    .content {
+        height: initial;
+    }
+
     section:nth-child(2) {
         grid-template-columns: 1fr;
     }
